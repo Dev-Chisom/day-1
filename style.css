@@ -85,6 +85,7 @@ input {
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 .social_field {
   height: 3rem;
